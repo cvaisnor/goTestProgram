@@ -1,1 +1,1 @@
-This is a repo for some simple Go programs. Executables are not included. 
+This is a repo for a simple Go program.
