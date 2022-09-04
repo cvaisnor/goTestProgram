@@ -1,8 +1,8 @@
 package main
 
 import (
-	"fmt"                       // module for printing
-	"go_test_program/functions" // format: name "path" (name can be anything)
+	"fmt"                     // module for printing
+	"goTestProgram/functions" // format: name "path" (name can be anything)
 )
 
 func main() {

@@ -1,4 +1,4 @@
 .vscode
 
 # the compiled test program isn't needed
-go_test_program
+goTestProgram

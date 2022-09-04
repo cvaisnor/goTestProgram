@@ -1,3 +1,3 @@
-module go_test_program
+module goTestProgram
 
 go 1.19
